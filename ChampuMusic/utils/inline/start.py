@@ -58,7 +58,7 @@ def music_start_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="ᴀʙᴏᴜᴛ 📝", callback_data="about"),
+            InlineKeyboardButton(text="Vᴇɴᴏᴍ 👿", callback_data="about"),
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥀", callback_data="support"),
         ],
         [InlineKeyboardButton(text="۞ ғᴇᴀᴛᴜʀᴇ ۞", callback_data="feature")],
